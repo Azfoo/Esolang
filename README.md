@@ -1,5 +1,5 @@
 # Esolang Interpretor
-The language(Esolang) chosen is [brainfuck](https://esolangs.org/wiki/brainfuck) 
+The language(Esolang) chosen is [brainf_ck](https://esolangs.org/wiki/brainfuck) 
 ## Language Specs
 |Command|Description|
 |-------|-----------|
@@ -23,7 +23,7 @@ $ git clone https://github.com/Azfoo/Esolang.git
 2. Move in the Repo and assemble the code to generate executable
 ```
 $ cd Esolang
-$ gcc -no-pie -o brainfuck.s bf
+$ gcc -no-pie -o bf brainf_ck.s
 ```
 3. Run the exucatable with test inputs
 ```
