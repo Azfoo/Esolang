@@ -18,7 +18,7 @@ There are two tests
 ###### Testing in Linux Environment with GAS
 1. Clone the Repo
 ```
-$ git clone https://github.com/Azfoo/Esolang.git 
+$ git clone https://github.com/valence-e/Esolang.git 
 ``` 
 2. Move in the Repo and assemble the code to generate executable
 ```
